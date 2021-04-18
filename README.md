@@ -3,11 +3,11 @@ A full featured blogging app where users can create profile, write book reviews,
 
 
 ## Screenshots
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/2.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/3.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/4.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" width="300" height="220">
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/2.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/3.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/4.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" >
 
 <img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/Book-Review-Blog-Logged-out-Goog.gif" title="Bomb_drop" alt="Bomb_drop">
 ### Features
