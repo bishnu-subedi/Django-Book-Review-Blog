@@ -1,6 +1,7 @@
 # Django-Book-Review-Blog
-A full featured blogging app where users can create profile, write book reviews, update and delete them.
 
+A full featured blogging app where users can create profile, write book reviews, update and delete them.
+<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/Book-Review-Blog-Logged-out-Goog.gif" title="Bomb_drop" alt="Bomb_drop">
 
 ## Screenshots
 <img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" >
@@ -9,7 +10,7 @@ A full featured blogging app where users can create profile, write book reviews,
 <img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/4.png" title="Bomb_drop" alt="Bomb_drop" >
 <img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" >
 
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/Book-Review-Blog-Logged-out-Goog.gif" title="Bomb_drop" alt="Bomb_drop">
+
 ### Features
 
 * A fast, attractive interface for book lovers.
