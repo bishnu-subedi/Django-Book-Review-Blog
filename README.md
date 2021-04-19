@@ -2,29 +2,25 @@
 
 A full featured blogging app where users can create profile, write book reviews, update and delete them.
 
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/Book-Review-Blog-Logged-out-Goog.gif" title="Bomb_drop" alt="Bomb_drop">
+<img src="misc/Book-Review-Blog-Logged-out-Goog.gif" title="Django Book Review Blog" alt="Book Review Blog" width="720" height="405">
 
 ## Screenshots
 
 ### Home Page
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/1.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="misc/1.png" title="Book Review Blog" alt="Book Review Blog" width="720" height="405" >
 
 ### Profile Page
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/2.png" title="Bomb_drop" alt="Bomb_drop" >
+<img src="misc/2.png" title="Book Review Blog" alt="Book Review Blog" width="720" height="405" >
 
-### Create New Review Page
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/3.png" title="Bomb_drop" alt="Bomb_drop" >
+### Create-New-Review Page
+<img src="misc/3.png" title="Book Review Blog" alt="Book Review Blog" width="720" height="405">
 
-### Post Edit Page
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/4.png" title="Bomb_drop" alt="Bomb_drop" >
-
-### Paginator
-<img src="https://github.com/firebolt7/Django-Book-Review-Blog/blob/main/misc/5.png" title="Bomb_drop" alt="Bomb_drop" >
-
+### Post-Edit Page
+<img src="misc/4.png" title="Book Review Blog" alt="Book Review Blog" width="720" height="405" >
 
 ## Features
 
-* A fast, attractive interface for book lovers.
+* A fast, interactive interface for book lovers.
 * Create profile, update and delete them.
 * Group Book reviews from same user.
 * Interactive E-mail support.
