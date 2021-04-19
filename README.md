@@ -26,6 +26,12 @@ A full featured blogging app where users can create profile, write book reviews,
 * Interactive E-mail support.
 * Create, update and delete the blog posts. 
 
+# Prerequisite
+
+```bash
+python == 3.5 or up
+```
+
 # Getting started
 
 To get started, run the following in a virtual environment:
