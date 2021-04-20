@@ -2,8 +2,6 @@
 
 A full featured blogging app where users can create profile, write book reviews, update and delete them.
 
-<img src="misc/Book-Review-Blog-Logged-out-Goog.gif" title="Django Book Review Blog" alt="Book Review Blog" width="720" height="405">
-
 ## Screenshots
 
 ### Home Page
